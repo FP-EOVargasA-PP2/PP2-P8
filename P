@@ -1,0 +1,5 @@
+Introduce el Cateto opuesto del empleado
+4
+Introduce el Cateto adyacente del empleado
+9
+El cateto del triangulo sera 9.848857801796104
